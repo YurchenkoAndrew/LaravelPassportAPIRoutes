@@ -1,6 +1,6 @@
 {
   "name": "andrew-yurchenko/laravel-passport-api-routes",
-  "description": "Description of your package",
+  "description": "API routes for Laravel passport package",
   "type": "laravel-package",
   "keywords": ["laravel", "пакет"],
   "license": "MIT",
